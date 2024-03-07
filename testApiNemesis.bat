@@ -1,7 +1,7 @@
 @echo off
 
 if "%1" == "github" (
-    call file\script\github.bat
+    call file\script\Github.bat
 
 ) else if "%1" == "BNT_001_logs" (
     set apikey=""
