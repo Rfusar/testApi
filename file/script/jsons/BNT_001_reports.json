@@ -1,7 +1,7 @@
 {
     "benetton_prod": {
         "security": {
-            "apiKey": "sk-fdtOILZuhzgLBVmwxgy2gT46ZxiycLrncEBUQK32OuNxEeGFOEaoOKyZCx7JVWo4",
+            "apiKey": "",
             "project_id": "BNT001_report"
         },
         "body": {

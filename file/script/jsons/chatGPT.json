@@ -1,7 +1,7 @@
 {
     "chatGPT": {
         "security": {
-            "apiKey": "sk-xh3mfLaoZR8mAyedmVYsJc3hf92poENaD2CNAKYidOIjKOjb8bYcfRGyuCgCAtTE",
+            "apiKey": "",
             "apiKey_chatGPT": "apikey"
         },
         "body": {
