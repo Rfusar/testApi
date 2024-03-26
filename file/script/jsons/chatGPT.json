@@ -1,0 +1,11 @@
+{
+    "chatGPT": {
+        "security": {
+            "apiKey": "sk-xh3mfLaoZR8mAyedmVYsJc3hf92poENaD2CNAKYidOIjKOjb8bYcfRGyuCgCAtTE",
+            "apiKey_chatGPT": "apikey"
+        },
+        "body": {
+            "system": "ciao sono il system"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "benetton_prod": {
+        "security": {
+            "apiKey": "sk-EBUQK32OuNxEeGFOEaoOKyZCx7JVWo4fdtOILZuhzgLBVmwxgy2gT46ZxiycLrnc",
+            "project_id": "BNT001_log"
+        },
+        "body": {
+            "document_id": "",
+            "sender": "",
+            "oggettoEmail": "",
+            "date": "",
+            "steps": []
+        }
+    }
+}

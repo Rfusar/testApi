@@ -1,0 +1,25 @@
+{
+    "benetton_prod": {
+        "security": {
+            "apiKey": "sk-fdtOILZuhzgLBVmwxgy2gT46ZxiycLrncEBUQK32OuNxEeGFOEaoOKyZCx7JVWo4",
+            "project_id": "BNT001_report"
+        },
+        "body": {
+            "document_id": "",
+            "document": {
+                "nomeFileOriginale": "",
+                "CodRichiesta": "",
+                "CodStagione": "",
+                "CodArtTes": "",
+                "CodColori": "",
+                "CodVendor": "",
+                "DesVendor": "",
+                "DesLab": "",
+                "DesPackage": "",
+                "DesDtaReport": "",
+                "DesNroReport": "",
+                "DesOverallRating": ""
+            }
+        }
+    }
+}
